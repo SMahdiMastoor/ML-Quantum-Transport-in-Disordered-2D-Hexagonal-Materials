@@ -1,6 +1,6 @@
 # ML-Quantum-Transport-in-Disordered-2D-Hexagonal-Materials
 
-📖 \textbf{Abstract:} \\
+# 📖 Abstract: \\
 We introduce scalable machine learning models to accurately predict two key
 quantum transport properties, the transmission coefficient T(E) and the local
 density of states (LDOS) in two-dimensional (2D) hexagonal materials with
