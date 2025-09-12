@@ -21,7 +21,7 @@ search into physics-informed or graph-based learning architectures for improved
 generalization in spintronic and nanoelectronic device design.
 
 
-**📄 Conceptual Overview & Methodology**
+**📄 Conceptual Overview & Methodology**\
 The machine learning workflow, feature space design, and physical interpretations are described in full detail in our accompanying paper. To understand the underlying algorithm, the rationale for the chosen geometric features, and the broader scientific context of this work, please refer to the manuscript:
 
 "Scalable Machine Learning Models for Predicting Quantum Transport in Disordered 2D Hexagonal Materials"
