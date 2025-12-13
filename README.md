@@ -1,8 +1,24 @@
 # ML-Quantum-Transport-in-Disordered-2D-Hexagonal-Materials
 
 **📖 Abstract:**\
-We introduce scalable machine learning models to accurately predict two key quantum transport properties, the transmission coefficient T(E) and the local density of states (LDOS) in two-dimensional (2D) hexagonal materials with magnetic disorder. Using a tight-binding Hamiltonian combined with the Non-Equilibrium Green’s Function (NEGF) formalism, we generate a large dataset of over 400,000 unique configurations across graphene, germanene, silicene, and stanene nanoribbons with varying geometries, impurity concentrations and en-
-ergy levels. A central contribution of this work is the development of a geometry-driven, physically interpretable feature space that enables the models to generalize across material types and device sizes. Random Forest regression and classification models are evaluated in terms of accuracy, stability and extrapolation ability. Regression consistently outperforms classification in capturing of continuous transport behavior on in-domain data. However, extrapolation performance degrades significantly, revealing the limitations of tree-based models in unseen regimes. This study highlights both the potential and constraints of scalable ML models for quantum transport prediction and motivates future research into physics-informed or graph-based learning architectures for improved generalization in spintronic and nanoelectronic device design.
+We introduce scalable machine learning models to predict two key electronic
+properties of disordered two-dimensional hexagonal nanomaterials: the trans-
+mission coefficient T(E) and the average local density of states (average-LDOS).
+Using a tight-binding Hamiltonian combined with the Non-Equilibrium Green’s
+Function formalism, the dataset of more than 400,000 unique nanoribbon con-
+figurations across graphene, germanene, silicene, and stanene with varying ge-
+ometries, impurity concentrations, and energy levels was generated. A central
+contribution of this work is the development of a geometry-driven and phys-
+ically interpretable feature space that enables generalization across material
+classes and system sizes. Random Forest regression and classification models
+are systematically evaluated in terms of accuracy, stability, and extrapolation
+ability. Regression consistently outperforms classification in capturing contin-
+uous transport behavior on in-domain data, while extrapolation performance
+degrades, revealing the limitations of tree-based models in unseen regimes. This
+study demonstrates a data-driven and transferable framework for accelerating
+quantum transport prediction in 2D nanostructures with disorder, providing
+new insights into structure–property relationships and guiding future develop-
+ment of physics-informed learning models for materials science.
 
 
 **📄 Conceptual Overview & Methodology**\
